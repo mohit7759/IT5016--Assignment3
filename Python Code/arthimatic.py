@@ -9,9 +9,12 @@ print(
 )
 """
 
-# comparison Operators
 cookies_in_jar = 30
 chocolates_in_box = 15
 
 if cookies_in_jar > chocolates_in_box:
-    print("The cookie jar is winning! It")
+    print("The cookie jar is winning! It has more cookies than chocolates.")
+elif cookies_in_jar < chocolates_in_box:
+    print("The chocolate box is winning! It has more chocolates than cookies.")
+else:
+    print("It's a tie! Both the cookie jar and the chocolate box have the same number.")
