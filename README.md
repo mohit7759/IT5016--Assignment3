@@ -1,5 +1,36 @@
 # IT5016--Assignment3
 
+# Python Code Folder
+
+This folder contains several Python files demonstrating various programming concepts and principles.
+
+## Files:
+
+1. **Controlstatements.py**
+   - Description: Demonstrates different control statements such as if, for, while, break, continue, etc.
+   - Usage: Run this file to see examples of control statements in action.
+
+2. **Funcation.py**
+   - Description: Contains examples of defining and using functions in Python.
+   - Usage: Run this file to see examples of function definitions and calls.
+
+3. **Randomnumbergrenated.py**
+   - Description: Generates a random number using the `random` module in Python.
+   - Usage: Run this file to generate a random number.
+
+4. **arthimatic.py**
+   - Description: Performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
+   - Usage: Run this file to perform arithmetic operations and see the results.
+
+5. **inheritanceclass.py**
+   - Description: Contains examples of inheritance in object-oriented programming using classes.
+   - Usage: Run this file to see examples of class inheritance and method overriding.
+
+## Additional Information:
+
+- Make sure you have Python installed on your system to run these files.
+- You can run each file individually using a Python interpreter or an integrated development environment (IDE).
+
 
 
 
