@@ -19,7 +19,7 @@ This folder contains several Python files demonstrating various programming conc
    - Usage: Run this file to generate a random number.
 
 4. **arthimatic.py**
-   - Description: Performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
+   - Description: Performs basic arithmetic operations such as addition and subtraction.
    - Usage: Run this file to perform arithmetic operations and see the results.
 
 5. **inheritanceclass.py**
