@@ -8,10 +8,10 @@ Copy the provided code into a Python script file (e.g., circle_pattern.py).
 Run the Python script using a Python interpreter.
 The Turtle graphics window will display the circle pattern.
 ## Files Included
-'''
-colorfulcirclepattern.py: The Python script containing the code to draw the circle pattern.
-README.md: This file, providing information about the circle pattern drawing script.
-'''
+
+- colorfulcirclepattern.py: The Python script containing the code to draw the circle pattern.
+- README.md: This file, providing information about the circle pattern drawing script.
+
 ## Requirements
 Python 3.11
 Turtle graphics library (included in the Python standard library)
